@@ -1,0 +1,30 @@
+[
+  {
+    "title": "pink",
+    "gradient": "linear-gradient(90deg, rgba(195,37,223,1) 0%, rgba(115,29,180,1) 100%)"
+  },
+  {
+    "title": "hot",
+    "gradient": "linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)"
+  },
+  {
+    "title": "down",
+    "gradient": "linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%)"
+  },
+  {
+    "title": "dusk",
+    "gradient": "linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%)"
+  },
+  {
+    "title": "sky",
+    "gradient": "linear-gradient(160deg, #0093E9 0%, #80D0C7 100%)"
+  },
+  {
+    "title": "lemon",
+    "gradient": "linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%)"
+  },
+  {
+    "title": "orange",
+    "gradient": "linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%)"
+  }
+]
