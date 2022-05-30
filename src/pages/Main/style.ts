@@ -1,14 +1,15 @@
 import styled from "styled-components";
 
-export const Container = styled.div``;
+export const Container = styled.div`
+  padding: 50px;
+`;
 
 export const NavigationContainer = styled.div`
-  position: fixed;
-  bottom: 20px;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 20px;
 `;
 
 export const Navigation = styled.nav`
